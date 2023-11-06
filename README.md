@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hello, I'm Kaushal Jha <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+# Hello, I'm Kaushal Jha <img src="https://avatars.githubusercontent.com/u/112983519?v=4" width="30px">
 
 <!-- Introduction -->
 I'm a second-year student on a journey to become an app development enthusiast. Tech excites me!
