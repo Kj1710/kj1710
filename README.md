@@ -24,30 +24,23 @@ I'm a second-year student on a journey to become an app development enthusiast. 
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
 - 📧 Email: kjha7865@gmail.com
-- 💬 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 🌐 Portfolio: [Your Portfolio Website](https://your-portfolio-website.com)
+- 💬 Twitter: [@YourTwitterHandle](https://twitter.com/Kjha1710)
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-[![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/your-username)
+[![Kaushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kj1710&show_icons=true&theme=dark)](https://github.com/kj1710)
 
 <!-- GitHub Streak -->
 ## 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark)](https://github.com/your-username)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kj1710&theme=dark)](https://github.com/kj1710)
 
 <!-- Social Media -->
 ## 🌍 Connect with Me
-- 📷 Instagram: [@YourInstagram](https://www.instagram.com/YourInstagram)
-- 🟦 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+- 📷 Instagram: [@YourInstagram](https://www.instagram.com/kaushal_1710_/)
+- 🟦 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kaushal-jha-kj1710/)
 - 💼 Email: your.email@example.com
 
 <!-- Projects -->
-## 🌟 Featured Projects
-- [Project 1 Name](https://github.com/your-username/project-1): A brief description.
-- [Project 2 Name](https://github.com/your-username/project-2): Another cool project.
 
 <!-- Additional Section (Optional) -->
-## 🎨 Fun Fact
-- Fun fact or interesting tidbit about yourself.
 
-You can replace the GIF example and add your own GIF that you find interesting or relevant to your profile.
