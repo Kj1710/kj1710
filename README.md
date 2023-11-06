@@ -24,7 +24,7 @@ I'm a second-year student on a journey to become an app development enthusiast. 
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
 - 📧 Email: kjha7865@gmail.com
-- 💬 Twitter: [@MyTwitterHandle](https://twitter.com/Kjha1710)
+- 💬 Twitter: [My Twitter Handle](https://twitter.com/Kjha1710)
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
@@ -36,7 +36,7 @@ I'm a second-year student on a journey to become an app development enthusiast. 
 
 <!-- Social Media -->
 ## 🌍 Connect with Me
-- 📷 Instagram: [@My Instagram](https://www.instagram.com/kaushal_1710_/)
+- 📷 Instagram: [My Instagram](https://www.instagram.com/kaushal_1710_/)
 - 🟦 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/kaushal-jha-kj1710/)
 
 
