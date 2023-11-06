@@ -11,8 +11,11 @@ I'm a second-year student on a journey to become an app development enthusiast. 
 
   <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="350px">
 - 📱 Mobile App Development
+<br>
 - 🌐 Web Development
+<br>
 - 💡 Exploring New Technologies
+<br>
 
 
 
@@ -24,7 +27,7 @@ I'm a second-year student on a journey to become an app development enthusiast. 
 <!-- How to Reach Me -->
 ## 📫 How to Reach Me
 - 📧 Email: kjha7865@gmail.com
-- 💬 Twitter: [My Twitter Handle](https://twitter.com/Kjha1710)
+> - ✖️ Twitter: [My Twitter Handle](https://twitter.com/Kjha1710)
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
