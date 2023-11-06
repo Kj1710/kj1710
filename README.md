@@ -1,15 +1,14 @@
 <!-- Your Name -->
-# Hello, I'm Kaushal Jha <img src="https://avatars.githubusercontent.com/u/112983519?v=4" width="30px">
-
+# Hello, I'm Kaushal Jha 
 <!-- Introduction -->
 I'm a second-year student on a journey to become an app development enthusiast. Tech excites me!
 
 <!-- Your Image -->
-<img align="right" src="your-profile-image.jpg" width="250">
+<img align="right" src="https://avatars.githubusercontent.com/u/112983519?v=4" width="250">
 
 <!-- GIF Example -->
 <p align="center">
-  <img src="https://media.giphy.com/media/J2UaMLB2FljL81Q8Mc/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
 </p>
 
 <!-- Your Interests -->
