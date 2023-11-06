@@ -4,11 +4,11 @@
 I'm a second-year student on a journey to become an app development enthusiast. Tech excites me!
 
 <!-- Your Image -->
-<img align="right" src="https://avatars.githubusercontent.com/u/112983519?v=4" width="250">
+<img  src="https://avatars.githubusercontent.com/u/112983519?v=4" >
 
 <!-- GIF Example -->
-<p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
+<p >
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" >
 </p>
 
 <!-- Your Interests -->
