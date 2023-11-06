@@ -9,7 +9,7 @@ I'm a second-year student on a journey to become an app development enthusiast. 
 <!-- Your Interests -->
 ## 🚀 Interests
 
-  <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="250px">
+  <img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height="300px">
 - 📱 Mobile App Development
 <br>
 - 🌐 Web Development
